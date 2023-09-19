@@ -1,0 +1,7 @@
+D:\nam3 ki1\laptrinh hethong\CShap\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+D:\nam3 ki1\laptrinh hethong\CShap\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+D:\nam3 ki1\laptrinh hethong\CShap\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+D:\nam3 ki1\laptrinh hethong\CShap\SocketServer\SocketServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+D:\nam3 ki1\laptrinh hethong\CShap\SocketServer\SocketServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+D:\nam3 ki1\laptrinh hethong\CShap\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+D:\nam3 ki1\laptrinh hethong\CShap\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
